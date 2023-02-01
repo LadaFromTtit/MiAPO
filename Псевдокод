@@ -1,0 +1,22 @@
+
+
+def test_profile_view (self):
+Ci ey Ertl sa
+url_s = ‘{url}{id}'.format_(
+Pie ae
+be SP AD
+response = self.client.get_(url_s)
+
+Pere tre re ete ye PD)
+
+def test_profile_view_large_id (self):
+
+url = '/account/'
+
+Cie One CD LT ane
+uplsurl,
+id="34/")
+
+Pet Ti eee Ae eh ae te)
+
+eee COC Le eect ml eT
